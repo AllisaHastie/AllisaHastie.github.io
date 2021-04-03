@@ -4,4 +4,4 @@ title: "About Me"
 permalink: https://allisahastie.github.io/AboutMe
 ---
 
-"About me" content
+"About me" content...pictures
